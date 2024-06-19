@@ -202,13 +202,10 @@ Thanks for open-sourcing!
 ## BibTeX
 
 ```
-@misc{rombach2021highresolution,
-      title={High-Resolution Image Synthesis with Latent Diffusion Models}, 
-      author={Robin Rombach and Andreas Blattmann and Dominik Lorenz and Patrick Esser and Björn Ommer},
-      year={2021},
-      eprint={2112.10752},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{zhu-etal-2024-pollmgraph,
+    title = "{P}o{LLM}graph: Unraveling Hallucinations in Large Language Models via State Transition Dynamics",
+    author = "Zhu, Derui  and Chen, Dingfan  and Li, Qing  and Chen, Zongxiong  and Ma, Lei  and Grossklags, Jens  and Fritz, Mario",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024"
 }
 ```
 
